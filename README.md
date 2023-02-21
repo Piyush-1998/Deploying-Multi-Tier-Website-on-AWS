@@ -1,6 +1,6 @@
 # Deploying-Multi-Tier-Website-on-AWS
 
-Hello Everyone!!! Welcome to this session on deploying a full-stack application on
+Hello Everyone!!! Welcome to this project on deploying a full-stack application on
 
 AWS and the application would mimic the functionality of something like Streaming
 
